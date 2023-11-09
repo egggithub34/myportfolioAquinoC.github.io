@@ -490,7 +490,9 @@ div.gallery .item:hover img {
     font-size: 20px;
     color: #414447;
   }
-
+  .info {
+    font-size: 20px;
+  }
   .main span {
     font-size: 20px;
     color: #3a4362;
